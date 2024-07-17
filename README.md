@@ -1,5 +1,12 @@
 # PlantGuardian Eco-Watering System
 
+##Authors
+
+Filipe Tendeiro 
+Amelie Helen Oberkirch 
+Salvatore Starace
+
+
 ## Project Overview
 
 Our code is designed for an automated plant care system that we developed to monitor and adjust the environment for different types of plants based on their specific needs. It utilizes sensors to measure light, soil moisture, and water level in a tank, and controls a water pump and an LED light to manage the plant's watering and lighting requirements. We allow users to select the type of plant they are growing, and the system adjusts its thresholds for light and soil moisture accordingly.
