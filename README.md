@@ -1,9 +1,9 @@
 # PlantGuardian Eco-Watering System
 
-##Authors
+## Authors
 
-Filipe Tendeiro 
-Amelie Helen Oberkirch 
+Filipe Tendeiro, 
+Amelie Helen Oberkirch, 
 Salvatore Starace
 
 
