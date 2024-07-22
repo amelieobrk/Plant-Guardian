@@ -2,9 +2,9 @@
 
 ## Authors
 
-Filipe Tendeiro, 
-Amelie Helen Oberkirch, 
-Salvatore Starace
+- Filipe Tendeiro
+- Amelie Helen Oberkirch,
+- Salvatore Starace
 
 
 ## Project Overview
@@ -77,7 +77,7 @@ Taking pictures of an aromatic plant over a few days is enough to see an increas
 2. Run the script in the console, passing two mandatory arguments that represent the first and second images of the plant, and optionally a third one to display the segmented images. The script will compute the segmented green areas and store them in the resources folder, printing the mean value of green pixels for both images in the console.
 
 
-###Future Work
+### Future Work
 In future work, we aim to refine our automated plant care system by incorporating the capability for the system to adjust the volume of water delivered to the plant based on the soil moisture level readings rather than ambient humidity. This approach will consider both the measured moisture level in the soil and the optimal moisture level for the specific plant type, as well as the size of the plant's pot.
 
 **Calculation for Optimal Water Delivery**
